@@ -1,4 +1,4 @@
-## Experiments for NeurIPS submission 9418 "Optimal Semi-supervised Distributed Learning with the Non-attainable Case".
+## Experiments for TIT paper "[Optimal Rates for Agnostic Distributed Learning](https://ieeexplore.ieee.org/document/10365227)".
 ---
 ### Installation on LINUX
 To install FALKON, set the MATLAB shell path to the kernels folder and run:
